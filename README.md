@@ -4,7 +4,10 @@ A world map created for personal play.
 
 
 ## Minecraft server 
-Version 1.14.2
+
+| Version | Address       |
+|---------|---------------|
+| 1.14.2  | mc.mriyam.com |
 
 ## Players
  * [@mbtamuli](https://github.com/mbtamuli)
