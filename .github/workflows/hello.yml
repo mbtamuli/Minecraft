@@ -11,7 +11,7 @@ jobs:
     steps:
       # This step uses GitHub's hello-world-javascript-action: https://github.com/actions/hello-world-javascript-action
       - name: Hello world
-        uses: scripts/create_vm.sh
+        uses: MuditMaurya/scripts/create_vm.sh@v1
         with:
           who-to-greet: 'Mona the Octocat'
         id: hello
