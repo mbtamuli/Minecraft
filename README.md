@@ -13,3 +13,6 @@ A world map created for personal play.
  * [@mbtamuli](https://github.com/mbtamuli)
  * [@MuditMaurya](https://github.com/MuditMaurya)
  * [@vamsi3296](https://github.com/vamsi3296)
+
+## Notes
+1. Location - `309/19/804` - Has few resources - gems, diamonds
