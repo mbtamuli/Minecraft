@@ -23,6 +23,12 @@ jobs:
         gcloud config set compute/zone asia-south1-a
         gcloud config set compute/region asia-south1
     
-    - name: List instances
+    - name: Test commands
       run: |
         gcloud compute instances list
+        ls -al world
+
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: ./.github/actions/lalala
